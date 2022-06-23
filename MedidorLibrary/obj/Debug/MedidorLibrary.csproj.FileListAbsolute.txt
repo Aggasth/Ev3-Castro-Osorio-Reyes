@@ -1,0 +1,6 @@
+C:\Users\Aggasth\Documents\INACAP\Programacion\Evaluacion ASP\EvaluacionASP_Castro-Osorio-Reyes\MedidorLibrary\obj\Debug\MedidorLibrary.csproj.AssemblyReference.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\Evaluacion ASP\EvaluacionASP_Castro-Osorio-Reyes\MedidorLibrary\obj\Debug\MedidorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\Evaluacion ASP\EvaluacionASP_Castro-Osorio-Reyes\MedidorLibrary\bin\Debug\MedidorLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\Evaluacion ASP\EvaluacionASP_Castro-Osorio-Reyes\MedidorLibrary\bin\Debug\MedidorLibrary.pdb
+C:\Users\Aggasth\Documents\INACAP\Programacion\Evaluacion ASP\EvaluacionASP_Castro-Osorio-Reyes\MedidorLibrary\obj\Debug\MedidorLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\Evaluacion ASP\EvaluacionASP_Castro-Osorio-Reyes\MedidorLibrary\obj\Debug\MedidorLibrary.pdb
